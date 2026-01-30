@@ -1,5 +1,5 @@
-# 💫 About Me:
-## ## 👋 Hi, I’m Abdul Rafeh
+ 💫 About Me:
+👋 Hi, I’m Abdul Rafeh
 
 I work on building intelligent, scalable systems that blend **Machine Learning, Computer Vision, Data Science, and Full-Stack Development**, with hands-on experience across **cloud platforms** and modern AI workflows.
 I’m currently focused on **AI-driven applications, agentic systems, and workflow automation**, designing solutions that are practical, efficient, and production-ready. I enjoy turning complex ideas into clean, usable products and exploring how autonomous agents and data-driven systems can solve real-world problems.
