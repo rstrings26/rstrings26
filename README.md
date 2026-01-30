@@ -1,5 +1,13 @@
 # 💫 About Me:
-## 👋 Hi, I’m Abdul Rafeh<br><br>I’m passionate about building intelligent, scalable systems that sit at the intersection of **Machine Learning, Computer Vision, Data Science, and Full-Stack Development**. My work focuses on turning complex ideas and raw data into practical, production-ready solutions that create real value.<br><br>Currently, I’m working on **AI-driven applications and agentic systems**, exploring how autonomous agents, workflow automation, and modern AI architectures can be used to simplify processes, improve decision-making, and scale digital products efficiently. I enjoy designing systems end-to-end — from data and model logic to backend services, user-facing interfaces, and cloud deployment.<br><br>I have hands-on experience working across **cloud environments**, building and deploying applications that are reliable, scalable, and optimized for real-world use. A large part of my interest lies in automation — whether it’s orchestrating intelligent workflows, connecting services through APIs, or building systems that can operate with minimal human intervention.<br><br>I’m always open to collaborating on **AI products, automation platforms, and cloud-native applications**, especially projects that push the boundaries of intelligent systems and practical AI. Alongside this, I continuously work on strengthening my understanding of **advanced agent architectures, AI system design, and scalable production workflows**.<br><br>If you enjoy discussions around **machine learning, computer vision, agentic AI, automation, or building complete intelligent systems from the ground up**, feel free to reach out.  <br>⚡ Fun fact: I genuinely enjoy optimizing systems — if something can be automated or improved, I’ll probably try to redesign it.<br>
+## ## 👋 Hi, I’m Abdul Rafeh
+
+I work on building intelligent, scalable systems that blend **Machine Learning, Computer Vision, Data Science, and Full-Stack Development**, with hands-on experience across **cloud platforms** and modern AI workflows.
+I’m currently focused on **AI-driven applications, agentic systems, and workflow automation**, designing solutions that are practical, efficient, and production-ready. I enjoy turning complex ideas into clean, usable products and exploring how autonomous agents and data-driven systems can solve real-world problems.
+I’m open to collaborating on **AI products, automation systems, and cloud-native applications**, and I’m continuously learning more about **advanced agent architectures, AI system design, and scalable deployments**.
+If you’re interested in **ML, computer vision, agentic AI, automation, or building end-to-end intelligent systems**, feel free to reach out.  
+⚡ Fun fact: if something can be automated or optimized, I’ll probably try to build an agent for it.
+
+<br>
 
 
 ## 🌐 Socials:
